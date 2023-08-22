@@ -1,0 +1,1 @@
+{"name": "{{trigger.message.ChannelAttributes.from}}", "channelType": "{{trigger.message.ChannelAttributes.channel_type}}", "channelSid": "{{trigger.message.ChannelSid}}", "errorType": "{{widgets.GetCardFailureReason.data.parsed.error}}"}
